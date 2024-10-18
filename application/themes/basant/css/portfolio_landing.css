@@ -1,0 +1,23 @@
+.ccm-page header { border-bottom: 1px solid rgba(151, 151, 151, 0.24); }
+
+.page__title h1 { font-size: 24px; letter-spacing: 2.75px; text-transform: uppercase; }
+
+.section-filter { border-top: 1px solid #F1F1F1; border-bottom: 1px solid #F1F1F1; margin-bottom: 90px; }
+@media (max-width: 767px) { .section-filter { margin-bottom: 50px; } }
+@media (max-width: 991px) { .section-filter .filter__list { display: none; padding-bottom: 40px; } }
+.section-filter .filter__list ul { list-style: none; padding: 0; margin: 0; text-transform: uppercase; }
+@media (min-width: 992px) { .section-filter .filter__list ul { display: flex; display: -webkit-flex; justify-content: space-between; -webkit-justify-content: space-between; } }
+.section-filter .filter__list ul li { font-family: "GothamBold", Helvetica, Arial, sans-serif; font-size: 11px; letter-spacing: 2.75px; }
+.section-filter .filter__list ul li a { display: block; position: relative; padding: 30px 0; color: #181818; }
+@media (min-width: 992px) { .section-filter .filter__list ul li a:after { content: ''; background-color: #000; height: 1px; width: 0%; position: absolute; left: 0; bottom: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; -ms-transition: all 0.3s; } }
+@media (max-width: 991px) { .section-filter .filter__list ul li a { padding: 15px 0; } }
+.section-filter .filter__list ul li a.nav-path-selected:after, .section-filter .filter__list ul li a:hover:after { width: 100%; }
+.section-filter .filter__list ul li a.nav-path-selected { color: #D9D9D9; }
+
+.content__text-detail { text-align: justify; font-size: 13px; margin-bottom: 100px; }
+@media (max-width: 767px) { .content__text-detail { margin-bottom: 50px; } }
+.content__text-detail > div { max-width: 570px; margin: auto; }
+
+.content__landing-list { margin-bottom: 70px; }
+
+/*# sourceMappingURL=portfolio_landing.css.map */
