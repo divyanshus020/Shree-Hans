@@ -23,7 +23,7 @@ header .logo-black {
 }
 @media (min-width: 1025px) and (min-width: 1025px) {
 header .top-header:first-child {
-	padding-top: 65px
+	
 }
 .shrink header .top-header:first-child {
 	padding-top: 25px
