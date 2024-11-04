@@ -240,15 +240,15 @@ article {
 }
 .img-home{margin-top: 0px; display:none!important;}
 .section-top-page .product-collections .collection-list .list .col-item {
-	height: 100px
+	height: 150px
 }
 .section-top-page .product-collections .collection-list .list .col-item a {
 	align-items: center
 }
-.section-top-page .product-collections .collection-list .list .col-item a .rectangle {
+/* .section-top-page .product-collections .collection-list .list .col-item a .rectangle {
 	height: 100% !important;
 	
-}
+} */
 .ab-img{ background:url(../../../images/about-mob.jpg) no-repeat;  height: 100%;
 
   /* Center and scale the image nicely */
