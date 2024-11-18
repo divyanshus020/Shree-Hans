@@ -249,32 +249,32 @@ article {
 	height: 100% !important;
 	
 } */
-.ab-img{ background:url(../../../images/about-mob.jpg) no-repeat;  height: 100%;
+.ab-img{ height: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;}
   
-  .pro-img{ background:url(../../../images/product-mob.jpg) no-repeat;  height: 100%;
+  .pro-img{  height: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;}
-  .hos-img{ background:url(../../../images/hospility-mob.jpg) no-repeat;  height: 100%;
+  .hos-img{   height: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;}
-  .ver-img{ background:url(../../../images/ver-mob.jpg) no-repeat;  height: 100%;
+  .ver-img{   height: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;}
-  .con-img{ background:url(../../../images/contact-mob.jpg) no-repeat;  height: 100%;
+  .con-img{  height: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
